@@ -29,7 +29,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah438&show_icons=true&locale=en&layout=compact" alt="abdullah438" /></p>
 
 <h3 align="left">Hire Me:</h3>
+<p align="left">
 <a href="https://www.upwork.com/freelancers/~01864467fff8094b6f" rel="Upwork profile link">![Upwork](https://a11ybadges.com/badge?logo=upwork)</a> <a href="https://www.fiverr.com/users/iabdullah438" rel="Fiverr profile link">![Fiverr](https://a11ybadges.com/badge?logo=fiverr)</a>
+</p>
 
 <!---
 Abdullah438/Abdullah438 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
