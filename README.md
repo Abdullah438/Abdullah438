@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Android and ReactJS**
 
-- 👨‍💻 All of my projects are available at ![Github profile](https://github.com/Abdullah438/)
+- 👨‍💻 All of my projects are available at [Github profile](https://github.com/Abdullah438/)
 
 - 💬 Ask me about **Android, Flutter**
 
