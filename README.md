@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Android, Flutter**
 
-- 📫 How to reach me **iabdullahkhan438@gmail.com** and [WhatsApp](https://wa.me/923424041675)
+- 📫 How to reach me **iabdullahkhan438@gmail.com** and **[WhatsApp](https://wa.me/923424041675)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
