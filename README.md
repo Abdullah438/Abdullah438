@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hundal_abdullah" target="blank"><img src="https://img.shields.io/twitter/follow/hundal_abdullah?logo=twitter&style=for-the-badge" alt="hundal_abdullah" /></a> </p>
 
-- 🔭 I’m currently working on **Android developement** and **Python* for windows apps
+- 🔭 I’m currently working on **Android development** and **Python** for windows apps
 
 - 🌱 I’m currently learning **ReactJS, VueJS, NodeJS, Fastify**
 
