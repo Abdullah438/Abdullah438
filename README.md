@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **iabdullahkhan438@gmail.com**
 
-- 🔔 I've used bitbucket and anydesk that's why my github contributions aren't much. Kindly test me I'll prove it 🙏
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hundal_abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hundal_abdullah" height="30" width="40" /></a>
