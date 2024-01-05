@@ -1,20 +1,46 @@
-<h1 align="center">Hi 👋, I'm Abdullah khan</h1>
-<h3 align="center">A hardworking and result-oriented developer from Pakistan</h3>
+# Full Stack Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah438&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah438" /> </p>
+Welcome to my GitHub profile! I am passionate about developing innovative solutions and creating seamless user experiences across the web.
 
-<p align="left"> <a href="https://twitter.com/hundal_abdullah" target="blank"><img src="https://img.shields.io/twitter/follow/hundal_abdullah?logo=twitter&style=for-the-badge" alt="hundal_abdullah" /></a> </p>
+## About Me
 
-- 🔭 I’m currently working on **Android development** and **Python** for windows apps
+I'm Abdullah Hundal, a dedicated full-stack developer with a focus on:
 
-- 🌱 I’m currently learning **ReactJS, VueJS, NodeJS, Fastify**
+- Frontend technologies like HTML, CSS, JavaScript, React, and Vue.js
+- Backend technologies such as Node.js, Express, Django, and Flask
+- Database management using SQL (MySQL, PostgreSQL) and NoSQL (MongoDB)
+- Version control with Git and working in collaborative environments
 
-- 🤝 I’m looking for help with **Android and ReactJS**
+## Skills
+
+### Frontend
+
+- HTML5, CSS3, SASS/SCSS
+- JavaScript (ES6+), TypeScript
+- React.js, Redux, Vue.js
+- Responsive web design, Bootstrap, Tailwind CSS
+
+### Backend
+
+- Node.js, Express.js
+- Python, Django, Flask
+- RESTful API development
+- Authentication and authorization (JWT, OAuth)
+
+### Databases
+
+- SQL databases: MySQL, PostgreSQL, SQLite
+- NoSQL databases: MongoDB, Firebase
+
+### Tools & Other Skills
+
+- Git, GitHub, GitLab
+- Testing frameworks: Jest, Mocha, Chai
+- CI/CD pipelines, Docker
+- Agile methodologies, Scrum
 
 - 👨‍💻 All of my projects are available at [Github profile](https://github.com/Abdullah438/)
-
-- 💬 Ask me about **Android, Flutter**
-
+  
 - 📫 How to reach me **iabdullahkhan438@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
