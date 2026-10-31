@@ -12,7 +12,7 @@
 
 ## 👋 About me
 
-I'm a full-stack developer from Pakistan, currently working at **Parami AI**. My work covers the whole path of a product: the database and API, the web front end, and the mobile app that talks to it.
+I'm a full-stack developer from Pakistan, currently working at **Parami AI**. My work covers the whole path of a product: the database and API, the web front end, the mobile app that talks to it, and the firmware on the device itself.
 
 Lately I've been focused on two things:
 
@@ -27,6 +27,7 @@ I also spend a lot of time on Linux, writing the tools I wish already existed fo
 | --- | --- |
 | 🌐 **Web apps** | Next.js and React front ends with TypeScript, Tailwind and shadcn/ui, backed by Node, tRPC, Supabase and Postgres. Auth, row-level security and type-safe APIs end to end. |
 | 📱 **Mobile apps** | Native Android in Kotlin and Java, plus cross-platform apps in Flutter and React Native, including Bluetooth (BLE) apps that talk to IoT hardware. |
+| 🔌 **IoT & embedded** | C++ firmware for ESP32 boards (S3 and C3) with PlatformIO and Arduino: audio, sensors, BLE, Wi-Fi and WebSocket streaming, and scripted flashing for production devices. |
 | 🤖 **AI integration** | Speech recognition, document question-answering and AI writing features, using local models where privacy matters and hosted APIs where scale does. |
 | 🐧 **Linux & tooling** | Bash and Python tools for backups, environment setup and desktop automation that work across Arch, Fedora, Debian and openSUSE. |
 
@@ -96,6 +97,8 @@ An AI writing assistant: a rich-text editor with live grammar checking and one-c
 Most of my client and company work lives in private repos. Some of what I've built:
 
 - 🤖 **Robotics:** Android apps for service robots (temi and Alpha Mini)
+- 🔌 **ESP32 firmware:** C++ firmware for a two-board AI companion device (ESP32-S3 for audio, ESP32-C3 as a companion board), with microphone streaming over WebSocket, sound playback from on-device storage, motion sensing, and a one-command flashing script
+- 🔍 **ESP32 hardware testing:** a tool that checks whether an ESP32-S3 module is genuine by testing its flash and PSRAM, then sends the results to a phone over BLE
 - 📡 **IoT:** a React Native app that communicates with IoT devices over Bluetooth Low Energy
 - 🏠 **Home services:** a Flutter app for booking plumbers, electricians and mechanics on demand
 - 👶 **Childcare:** an Android app that connects parents with babysitters
@@ -104,10 +107,11 @@ Most of my client and company work lives in private repos. Some of what I've bui
 
 | | |
 | --- | --- |
-| **Languages** | <img src="https://skillicons.dev/icons?perline=8&i=ts,js,python,kotlin,java,dart,bash" alt="Languages"/> |
+| **Languages** | <img src="https://skillicons.dev/icons?perline=8&i=ts,js,python,cpp,kotlin,java,dart,bash" alt="Languages"/> |
 | **Front end** | <img src="https://skillicons.dev/icons?perline=8&i=react,nextjs,tailwind,html,css" alt="Front end"/> |
 | **Back end & data** | <img src="https://skillicons.dev/icons?perline=8&i=nodejs,express,fastapi,supabase,postgres,mongodb,firebase" alt="Back end and data"/> |
 | **Mobile** | <img src="https://skillicons.dev/icons?perline=8&i=androidstudio,flutter" alt="Mobile"/> |
+| **Embedded** | <img src="https://skillicons.dev/icons?perline=8&i=arduino,platformio" alt="Embedded"/> |
 | **Tools** | <img src="https://skillicons.dev/icons?perline=8&i=linux,docker,git,github,githubactions,vscode" alt="Tools"/> |
 
 ## 📊 GitHub stats
@@ -150,6 +154,7 @@ I'm open to freelance projects. I can help with:
 
 - Building a web app or API from idea to deployment
 - Android, Flutter or React Native apps, including apps that talk to hardware
+- ESP32 firmware in C++, from sensors and audio to BLE and Wi-Fi connectivity
 - Adding AI features such as transcription, document Q&A or writing tools to an existing product
 
 Reach me on [Upwork](https://www.upwork.com/freelancers/~01864467fff8094b6f), [Fiverr](https://www.fiverr.com/users/iabdullah438), or by [email](mailto:iabdullahkhan438@gmail.com).
