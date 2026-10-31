@@ -4,7 +4,7 @@
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iabdullahkhan438@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-khan-4136b71ba)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hundal_abdullah)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923424041675)
 [![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01864467fff8094b6f)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/iabdullah438)
 
@@ -157,6 +157,6 @@ I'm open to freelance projects. I can help with:
 - ESP32 firmware in C++, from sensors and audio to BLE and Wi-Fi connectivity
 - Adding AI features such as transcription, document Q&A or writing tools to an existing product
 
-Reach me on [Upwork](https://www.upwork.com/freelancers/~01864467fff8094b6f), [Fiverr](https://www.fiverr.com/users/iabdullah438), or by [email](mailto:iabdullahkhan438@gmail.com).
+Reach me on [Upwork](https://www.upwork.com/freelancers/~01864467fff8094b6f), [Fiverr](https://www.fiverr.com/users/iabdullah438), [WhatsApp](https://wa.me/923424041675), or by [email](mailto:iabdullahkhan438@gmail.com).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,100:2F81F7&height=100&section=footer" width="100%" alt=""/>
