@@ -1,62 +1,82 @@
-# 👨‍💻 Full Stack & C++ Developer
+<h1 align="center">Hi, I'm Abdullah Khan 👋</h1>
 
-Welcome to my GitHub profile! I am passionate about developing innovative solutions and creating seamless user experiences across multiple platforms.
-
-## 🚀 About Me
-
-I'm Abdullah Hundal, a versatile developer with expertise in:
-
-- ✨ Frontend technologies like HTML, CSS, JavaScript, React, and Vue.js
-- 🛠️ Backend technologies such as Node.js, Express, Django, and Flask
-- 💾 Database management using SQL (MySQL, PostgreSQL) and NoSQL (MongoDB)
-- 🔄 Version control with Git and collaborative development workflows
-- 🧠 C++ development for high-performance applications
-
-## 🛠️ Skills
-
-### Frontend
-- HTML5, CSS3, SASS/SCSS
-- JavaScript (ES6+), TypeScript
-- React.js, Redux, Vue.js
-- Responsive web design, Bootstrap, Tailwind CSS
-
-### Backend
-- Node.js, Express.js
-- Python, Django, Flask
-- RESTful API development
-- Authentication and authorization (JWT, OAuth)
-- C++ for performance-critical applications
-
-### Databases
-- SQL databases: MySQL, PostgreSQL, SQLite
-- NoSQL databases: MongoDB, Firebase
-
-### Tools & Other Skills
-- Git, GitHub, GitLab
-- Testing frameworks: Jest, Mocha, Chai
-- CI/CD pipelines, Docker
-- Agile methodologies, Scrum
-- C++ development tools and libraries
-
-- 👨‍💻 All of my projects are available at [Github profile](https://github.com/Abdullah438/)
-  
-- 📫 How to reach me **iabdullahkhan438@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hundal_abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hundal_abdullah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdullah-khan-4136b71ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-khan-4136b71ba" height="30" width="40" /></a>
+<p align="center">
+  Full-stack developer at <b>Parami AI</b> · based in Pakistan<br/>
+  I build web apps, mobile apps, and Linux tools — lately with a lot of local AI in the loop.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:iabdullahkhan438@gmail.com"><img src="https://img.shields.io/badge/Email-iabdullahkhan438%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/abdullah-khan-4136b71ba"><img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/hundal_abdullah"><img src="https://img.shields.io/badge/X-@hundal__abdullah-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+</p>
 
-<h3 align="left">💼 Hire Me:</h3>
+---
 
-<a href="https://www.upwork.com/freelancers/~01864467fff8094b6f" rel="Upwork profile link">![Upwork](https://a11ybadges.com/badge?logo=upwork)</a> <a href="https://www.fiverr.com/users/iabdullah438" rel="Fiverr profile link">![Fiverr](https://a11ybadges.com/badge?logo=fiverr)</a>
+### What I work on
 
+- 🌐 **Web** — TypeScript, Next.js and React front ends on top of Node, Supabase and Postgres
+- 📱 **Mobile** — Android (Kotlin/Java), Flutter and React Native, including BLE apps for IoT devices
+- 🤖 **AI** — RAG pipelines, speech-to-text, and tools that run on local models with Ollama and whisper.cpp
+- 🐧 **Linux** — shell tooling that makes a dev machine easy to set up, back up and rebuild
 
-<!---
-Abdullah438/Abdullah438 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Featured projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**DevVault**](https://github.com/Abdullah438/dev-vault) | Zero-knowledge vault for API keys: secrets are encrypted in the browser (AES-256-GCM, Argon2id) before they reach the server | Next.js · Supabase · Web Crypto |
+| [**whisper-dictate**](https://github.com/Abdullah438/whisper-dictate) | Offline speech dictation for Linux: speak, and the text is typed into the focused window | Python · whisper.cpp · PipeWire |
+| [**keepsake**](https://github.com/Abdullah438/keepsake) | Snapshot your configs, packages and dev environment, then rebuild them after a reinstall | Bash · rsync · rclone |
+| [**Scribe**](https://github.com/Abdullah438/scribe-ai) | Writing assistant with grammar checking and AI rewrites from a local model | Next.js · tRPC · Drizzle · Ollama |
+| [**rag-app**](https://github.com/Abdullah438/rag-app) | Ask questions about your PDFs and get answers with source references | Python · Streamlit · LangChain |
+
+### Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind&perline=14" alt="Web stack"/><br/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,supabase,postgres,mongodb,firebase&perline=14" alt="Backend and data"/><br/>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,androidstudio&perline=14" alt="Mobile"/><br/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github&perline=14" alt="Tools"/>
+</p>
+
+### GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Abdullah438&theme=github-dark-blue&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com?user=Abdullah438&hide_border=true" alt="Contribution streak"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg"/>
+    <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Contribution graph" width="100%"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
+    <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per language" width="49%"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
+    <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most commit language" width="49%"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdullah438/Abdullah438/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/Abdullah438/Abdullah438/output/github-snake.svg" alt="Contribution snake"/>
+  </picture>
+</p>
+
+### 💼 Hire me
+
+I take freelance work through
+<a href="https://www.upwork.com/freelancers/~01864467fff8094b6f"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" align="center"/></a>
+and
+<a href="https://www.fiverr.com/users/iabdullah438"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr" align="center"/></a>,
+or email me directly.
